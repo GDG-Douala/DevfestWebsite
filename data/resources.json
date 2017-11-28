@@ -1,66 +1,66 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "DevFest Douala 2017",
+  "description": "Le DevFest est un événement  de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "dates": " 16 Decembre, 2017",
+  "locationAddressShort": "Douala, Cameroon",
   "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
+  "playIcon": "Voyez comment c'était en 2015",
+  "c4p": "Devenir un speaker",
+  "buyTicket": "Acheter un ticket",
+  "backToTop": "Retour au sommet",
   "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "yourEmail": "Votre email",
+  "subscribeNote": "Pas de spam, seulement les dernières nouvelles et mises à jour!",
   "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsTitle": "Billets",
+  "ticketsDetails": "Les billets donnent accès à toutes les sections de la conférence, aux pauses café, au déjeuner et à la fête.",
   "close": "Close",
-  "soldOutTickets": "Sold Out",
+  "soldOutTickets": "Free",
   "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "socialMotto": "Ajouter aux cercles, aimer, suivre ou se connecter avec nous sur",
+  "beforeHashtag": "Quoi de neuf",
+  "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
+  "partners": "Les partenaires",
+  "becomePartner": "Devenir un partenaire",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
-  "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
+  "featuredPeopleTitle": "Speakers",
+  "featuredPeopleViewAll": "Voir tous les speakers",
+  "action": "Voyez comment c'était",
+  "locationTitle": "Collège HIB derrière socavert",
+  "locationDescription": "",
+  "locationAddress": "Collège HIB derrière socavert",
+  "organizerTitle": "Organisateur",
+  "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse. Pour la rejoindre, suivez le lien :)",
+  "openTeamPage": "Ouvrir une page d'équipe",
+  "whatIsGdg": "GDG Douala",
+  "aboutGdg": "Le GDG (Google Developers Group) Douala est une communauté de développeurs, amateurs & professionnels des TIC et étudiants qui partagent leur passion en organisant des conférences, hackathons, ateliers, challenges.Notre vision est de créer un écosystème de partage afin de connecter développeurs, étudiants, entrepreneurs et experts des TIC",
+  "readMore": "Lire la suite",
+  "copyLink": "Copier le lien",
+  "filteredBy": "filtré par",
+  "clearAll": "Tout effacer",
+  "filter": "Filtre",
+  "latestNews": "Dernières nouvelles",
+  "continueReading": "Continuer la lecture",
+  "viewPresentation": "Voir la présentation",
+  "viewVideo": "Voir la vidéo",
+  "skills": "Compétences",
+  "share": "Partager",
+  "shareWith": "Partager avec",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "mySchedule": "Mon emploi du temps",
+  "browseMore": "Parcourir plus d'événements",
+  "youShouldSignInSessions": "Connectez-vous pour enregistrer des sessions",
+  "youShouldSignInRating": "Connectez-vous pour évaluer les sessions",
+  "offlineMessage": "Tu es hors ligne",
+  "removedFromSchedule": "Retiré de mon calendrier",
+  "addedToSchedule": "Ajouté à mon agenda",
+  "rateSession": "Noter la session",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Pour les visiteurs",
       "links": [
         {
           "text": "Team",
@@ -75,21 +75,6 @@
         {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
           "newTab": true
         }
       ]
@@ -113,7 +98,7 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
+        "text": "devfestdouala@gmail.com",
         "url": "mailto:devfest@google.com"
       }
     ]
@@ -122,7 +107,7 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 300,
       "caption": "Attendees"
     },
     {
@@ -130,7 +115,7 @@
       "caption": "Days"
     },
     {
-      "counter": 30,
+      "counter": 25,
       "caption": "Sessions"
     },
     {
@@ -139,7 +124,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
+    "videoTitle": "GDG DevFest 2017",
     "videoId": "DfMnJAzOFng"
   }
 }
