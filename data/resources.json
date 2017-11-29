@@ -5,7 +5,6 @@
   "dates": " 16 Decembre, 2017",
   "locationAddressShort": "Douala, Cameroon",
   "motto": "Be a GDG. Be a Hero!",
-<<<<<<< HEAD
   "playIcon": "",
   "c4p": "Devenir un speaker",
   "buyTicket": "Participer",
@@ -14,17 +13,6 @@
   "subscribe": "Inscription",
   "yourEmail": "Votre addresse email",
   "subscribeNote": "Pas de spam, seulement les dernières nouvelles!",
-=======
-  "playIcon": "Voyez comment c'était en 2015",
-  "c4p": "Devenir un speaker",
-  "buyTicket": "Acheter un ticket",
-  "becomeSpeakerText": "Dévenir speaker",
-  "becomeSpeakerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSerqM1MxSRMSPk2g_SnE1qL5O89SoFd-5Ee8jbf9UPnChj9aA/viewform?usp=sf_link",
-  "backToTop": "Retour au sommet",
-  "subscribe": "Subscribe",
-  "yourEmail": "Votre email",
-  "subscribeNote": "Pas de spam, seulement les dernières nouvelles et mises à jour!",
->>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
   "contactUs": "Contactez nous",
   "ticketsTitle": "Billets",
   "ticketsDetails": "Les billets donnent accès à toutes les sections de la conférence, aux pauses café, au déjeuner et à la fête.",
@@ -36,23 +24,12 @@
   "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
   "partners": "Les partenaires",
   "becomePartner": "Devenir un partenaire",
-<<<<<<< HEAD
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "Voir tous les speakers",
   "action": "",
   "locationTitle": "Collège HIB derrière SoCaVer",
   "locationDescription": "",
   "locationAddress": "Collège HIB derrière SoCaVer",
-=======
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Speakers",
-  "featuredPeopleViewAll": "Voir tous les speakers",
-  "action": "Voyez comment c'était",
-  "locationTitle": "Collège HIB derrière socavert",
-  "locationDescription": "",
-  "locationAddress": "Collège HIB derrière socavert",
->>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
   "organizerTitle": "Organisateur",
   "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse. Pour la rejoindre, suivez le lien :)",
   "openTeamPage": "Ouvrir une page d'équipe",
@@ -70,11 +47,7 @@
   "skills": "Compétences",
   "share": "Partager",
   "shareWith": "Partager avec",
-<<<<<<< HEAD
   "signIn": "",
-=======
-  "signIn": "Connexion",
->>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
   "signOut": "Déconnexion",
   "mySchedule": "Mon emploi du temps",
   "browseMore": "Parcourir plus d'événements",
@@ -125,11 +98,7 @@
     "links": [
       {
         "text": "Écrivez nous un mail",
-<<<<<<< HEAD
         "url": "mailto:gdgdouala@gmail.com"
-=======
-        "url": "mailto:contact@gdgdouala.com"
->>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
       }
     ]
   },
@@ -157,7 +126,6 @@
       "caption": "Tracks"
     }
   ],
-<<<<<<< HEAD
   "featuredPeople":[
     {"name":"Speaker1",
       "country":"Cameroun",
@@ -166,8 +134,6 @@
       "companyLogo":"#"
     }
   ],
-=======
->>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
   "callToAction": {
     "videoTitle": "GDG DevFest Douala 2017",
     "videoId": "DfMnJAzOFng"
