@@ -32,7 +32,11 @@
     "locale": "fr-FR",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
+<<<<<<< HEAD
   "hashtag": "devfestDla",
+=======
+  "hashtag": "dfdla17",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
   "disqusShortName": "hoverboard-gdg-Douala",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -44,10 +48,24 @@
       "permalink": "/"
     },
     {
+<<<<<<< HEAD
+=======
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
       "route": "schedule",
       "permalink": "/schedule/"
     },
     {
+<<<<<<< HEAD
+=======
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
       "route": "team",
       "permalink": "/team/"
     }
@@ -69,7 +87,11 @@
       "url": "https://www.facebook.com/GDGDouala"
     }],
   "location": {
+<<<<<<< HEAD
     "apiKey": "AIzaSyCgN7RkWqNCIfz4HaDzRCauf8isWPrXRxA",
+=======
+    "apiKey": "",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
     "name": "HIB Douala",
     "address": "Ndokoti, derrière SoCaVer",
     "link": "https://www.facebook.com/expopivdennij",
@@ -89,7 +111,11 @@
     ]
   },
   "gallery": {
+<<<<<<< HEAD
     "albumUrl": "https://web.facebook.com/206250519497408/photos/?tab=album&album_id=297812480341211",
+=======
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -105,13 +131,38 @@
         "backgroundColor": "#fff",
         "backgroundImage": "/images/backgrounds/home_new.png",
         "fontColor": "#000",
+<<<<<<< HEAD
         "tabBarColor": "#ff9800",
+=======
+        "tabBarColor": "#000",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
         "hideLogo": true,
         "minHeight": "360px"
       }
     },
+<<<<<<< HEAD
     "schedule": {
       "title": "Programme",
+=======
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Calendrier",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -119,7 +170,11 @@
       }
     },
     "team": {
+<<<<<<< HEAD
       "title": "Équipe",
+=======
+      "title": "L'équipe",
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",

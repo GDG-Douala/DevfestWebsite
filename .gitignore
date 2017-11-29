@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 bower_components/
 node_modules/
+=======
+bower_components
+dist
+node_modules
+build
+.idea/
+.temp/
+.firebaserc
+>>>>>>> 3c34e78547e73a6a47bc555e36ed20dd1de64d1a
