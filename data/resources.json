@@ -1,0 +1,141 @@
+{
+  "title": "DevFest Douala 2017",
+  "description": "Le DevFest est un événement  de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": " 16 Decembre, 2017",
+  "locationAddressShort": "Douala, Cameroon",
+  "motto": "Be a GDG. Be a Hero!",
+  "playIcon": "",
+  "c4p": "Devenir un speaker",
+  "buyTicket": "Participer",
+  "becomeSpeakerText": "Dévenir speaker",
+  "backToTop": "Haut de page",
+  "subscribe": "Inscription",
+  "yourEmail": "Votre addresse email",
+  "subscribeNote": "Pas de spam, seulement les dernières nouvelles!",
+  "contactUs": "Contactez nous",
+  "ticketsTitle": "Billets",
+  "ticketsDetails": "Les billets donnent accès à toutes les sections de la conférence, aux pauses café, au déjeuner et à la fête.",
+  "close": "Fermé",
+  "soldOutTickets": "Gratuit",
+  "socialTitle": "Restez connecté",
+  "socialMotto": "Ajouter aux cercles, aimer, suivre ou se connecter avec nous sur",
+  "beforeHashtag": "Quoi de neuf",
+  "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
+  "partners": "Les partenaires",
+  "becomePartner": "Devenir un partenaire",
+  "featuredPeopleTitle": "Speakers",
+  "featuredPeopleViewAll": "Voir tous les speakers",
+  "action": "",
+  "locationTitle": "Collège HIB derrière SoCaVer",
+  "locationDescription": "",
+  "locationAddress": "Collège HIB derrière SoCaVer",
+  "organizerTitle": "Organisateur",
+  "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse. Pour la rejoindre, suivez le lien :)",
+  "openTeamPage": "Ouvrir une page d'équipe",
+  "whatIsGdg": "GDG Douala",
+  "aboutGdg": "Le GDG (Google Developers Group) Douala est une communauté de développeurs, amateurs & professionnels des TIC et étudiants qui partagent leur passion en organisant des conférences, hackathons, ateliers, challenges.Notre vision est de créer un écosystème de partage afin de connecter développeurs, étudiants, entrepreneurs et experts des TIC",
+  "readMore": "Lire la suite",
+  "copyLink": "Copier le lien",
+  "filteredBy": "filtré par",
+  "clearAll": "Tout effacer",
+  "filter": "Filtre",
+  "latestNews": "Dernières nouvelles",
+  "continueReading": "Continuer la lecture",
+  "viewPresentation": "Voir la présentation",
+  "viewVideo": "Voir la vidéo",
+  "skills": "Compétences",
+  "share": "Partager",
+  "shareWith": "Partager avec",
+  "signIn": "",
+  "signOut": "Déconnexion",
+  "mySchedule": "Mon emploi du temps",
+  "browseMore": "Parcourir plus d'événements",
+  "youShouldSignInSessions": "Connectez-vous pour enregistrer des sessions",
+  "youShouldSignInRating": "Connectez-vous pour évaluer les sessions",
+  "offlineMessage": "Vous êtes hors ligne",
+  "removedFromSchedule": "Retiré de mon calendrier",
+  "addedToSchedule": "Ajouté à mon agenda",
+  "rateSession": "Noter la session",
+  "footerBlocks": [
+    {
+      "title": "Pour les visiteurs",
+      "links": [
+        {
+          "text": "L'équipe",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "Code de conduite",
+          "url": "/cod/",
+          "newTab": false
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Pour les partenaires",
+      "links": [
+        {
+          "text": "Proposition de partenariat",
+          "url": "http://bit.ly/df16-sponsor",
+          "newTab": true
+        },
+        {
+          "text": "Kit Média",
+          "url": "http://bit.ly/df16-media",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "Écrivez nous un mail",
+        "url": "mailto:gdgdouala@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "L'équipe",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "statistics": [
+    {
+      "counter": 300,
+      "caption": "Participants"
+    },
+    {
+      "counter": 1,
+      "caption": "Jour"
+    },
+    {
+      "counter": 25,
+      "caption": "Sessions"
+    },
+    {
+      "counter": 20,
+      "caption": "Speakers"
+    },
+    {
+      "counter": 3,
+      "caption": "Tracks"
+    }
+  ],
+  "featuredPeople":[
+    {"name":"Speaker1",
+      "country":"Cameroun",
+      "id":"1",
+      "photoUrl":"#",
+      "companyLogo":"#"
+    }
+  ],
+  "callToAction": {
+    "videoTitle": "GDG DevFest Douala 2017",
+    "videoId": "DfMnJAzOFng"
+  }
+}

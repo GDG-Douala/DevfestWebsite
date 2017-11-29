@@ -1,0 +1,85 @@
+<link rel="import" href="../../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../../bower_components/marked-element/marked-element.html">
+
+
+<dom-module id="about-block">
+
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+      }
+
+      .container {
+        @apply(--layout-vertical);
+      }
+
+      .about-item {
+        @apply(--layout-flex-5);
+        text-align: justify;
+      }
+
+      .about-item:not(:first-of-type) {
+        margin-top: 30px;
+      }
+
+      .divider {
+        @apply(--layout-flex);
+      }
+
+      .page-link {
+        margin-top: 18px;
+        display: block;
+        font-size: 16px;
+      }
+
+      @media (min-width: 601px) {
+        .container {
+          @apply(--layout-horizontal);
+        }
+
+        .container .heading {
+          margin-bottom: 20px;
+        }
+
+        .about-item:not(:first-of-type) {
+          margin-top: 0;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="about-item">
+        <h4 class="heading">Organisateur</h4>
+        <marked-element markdown="Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l&#39;aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse. Pour la rejoindre, suivez le lien :)">
+          <div class="markdown-html"></div>
+        </marked-element>
+        <a class="page-link" href="/team">Ouvrir une page d&#39;équipe</a>
+      </div>
+      <span class="divider"></span>
+      <div class="about-item">
+        <h4 class="heading">GDG Douala</h4>
+        <marked-element markdown="Le GDG (Google Developers Group) Douala est une communauté de développeurs, amateurs &amp; professionnels des TIC et étudiants qui partagent leur passion en organisant des conférences, hackathons, ateliers, challenges.Notre vision est de créer un écosystème de partage afin de connecter développeurs, étudiants, entrepreneurs et experts des TIC">
+          <div class="markdown-html"></div>
+        </marked-element>
+      </div>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+
+        is: 'about-block'
+
+      });
+
+    }());
+  </script>
+</dom-module>

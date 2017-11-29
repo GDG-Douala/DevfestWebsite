@@ -1,0 +1,109 @@
+<link rel="import" href="../../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../styles/shared-styles.html">
+
+
+<dom-module id="statistics-block">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        display: block;
+        background: var(--default-primary-color);
+        color: var(--text-primary-color);
+      }
+
+      .container {
+        text-align: center;
+      }
+
+      .statistics-wrapper {
+        @apply(--layout-horizontal);
+        @apply(--layout-wrap);
+      }
+
+      .statistics-element {
+        @apply(--layout-vertical);
+        @apply(--layout-center-center);
+      }
+
+      .counter {
+        font-size: 3em;
+        font-weight: 200;
+      }
+
+      .caption {
+        font-size: .85em;
+      }
+
+      .description {
+        margin-top: 35px;
+      }
+
+      @media (max-width: 600px) {
+        .statistics-element {
+          width: 50%;
+        }
+
+        .statistics-element:nth-child(1),
+        .statistics-element:nth-child(2) {
+          margin-bottom: 40px;
+        }
+      }
+
+      @media (min-width: 601px) {
+        .statistics-element {
+          @apply(--layout-flex);
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="statistics-wrapper">
+        
+          <div class="statistics-element">
+            <span class="counter">300</span>
+            <span class="caption">Participants</span>
+          </div>
+        
+          <div class="statistics-element">
+            <span class="counter">1</span>
+            <span class="caption">Jour</span>
+          </div>
+        
+          <div class="statistics-element">
+            <span class="counter">25</span>
+            <span class="caption">Sessions</span>
+          </div>
+        
+          <div class="statistics-element">
+            <span class="counter">20</span>
+            <span class="caption">Speakers</span>
+          </div>
+        
+          <div class="statistics-element">
+            <span class="counter">3</span>
+            <span class="caption">Tracks</span>
+          </div>
+        
+      </div>
+      <div class="description">Le DevFest est un événement  de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique</div>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+
+        is: 'statistics-block'
+
+      });
+
+    }());
+  </script>
+
+</dom-module>
