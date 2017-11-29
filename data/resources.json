@@ -8,6 +8,8 @@
   "playIcon": "Voyez comment c'était en 2015",
   "c4p": "Devenir un speaker",
   "buyTicket": "Acheter un ticket",
+  "becomeSpeakerText": "Dévenir speaker",
+  "becomeSpeakerUrl": "https://docs.google.com/forms/d/e/1FAIpQLSerqM1MxSRMSPk2g_SnE1qL5O89SoFd-5Ee8jbf9UPnChj9aA/viewform?usp=sf_link",
   "backToTop": "Retour au sommet",
   "subscribe": "Subscribe",
   "yourEmail": "Votre email",
@@ -54,7 +56,7 @@
   "browseMore": "Parcourir plus d'événements",
   "youShouldSignInSessions": "Connectez-vous pour enregistrer des sessions",
   "youShouldSignInRating": "Connectez-vous pour évaluer les sessions",
-  "offlineMessage": "Tu es hors ligne",
+  "offlineMessage": "Vous êtes hors ligne",
   "removedFromSchedule": "Retiré de mon calendrier",
   "addedToSchedule": "Ajouté à mon agenda",
   "rateSession": "Noter la session",
@@ -98,8 +100,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "Écrivez nous",
-        "url": "mailto:devfest@google.com"
+        "text": "Écrivez nous un mail",
+        "url": "mailto:contact@gdgdouala.com"
       }
     ]
   },

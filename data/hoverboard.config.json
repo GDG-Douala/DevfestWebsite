@@ -108,12 +108,12 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "Accueil",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home-new.png",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
+        "backgroundColor": "#fff",
+        "backgroundImage": "/images/backgrounds/home_new.png",
+        "fontColor": "#000",
+        "tabBarColor": "#000",
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -135,7 +135,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Calendrier",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -143,7 +143,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "L'équipe",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -151,7 +151,7 @@
       }
     },
     "cod": {
-      "title": "Code of Conduct",
+      "title": "Code de conduite",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
