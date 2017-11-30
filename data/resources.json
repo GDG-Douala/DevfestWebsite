@@ -4,7 +4,7 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": " 16 Decembre, 2017",
   "locationAddressShort": "Douala, Cameroon",
-  "motto": "Be a GDG. Be a Hero!",
+  "motto": "HIB derrière SoCaVer",
   "playIcon": "",
   "c4p": "Devenir un speaker",
   "buyTicket": "Participer",
@@ -27,11 +27,11 @@
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "Voir tous les speakers",
   "action": "",
-  "locationTitle": "Collège HIB derrière SoCaVer",
-  "locationDescription": "",
-  "locationAddress": "Collège HIB derrière SoCaVer",
+  "locationTitle": "HIB derrière SoCaVer",
+  "locationDescription": "Higher Institute of Business, Ndokoti",
+  "locationAddress": "HIB derrière SoCaVer",
   "organizerTitle": "Organisateur",
-  "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse. Pour la rejoindre, suivez le lien :)",
+  "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure.Organisée pour la 5e fois dans la ville, nous voulons en faire désormais; le plus grand rassemblement de développeurs au Cameroun.Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse.",
   "openTeamPage": "Ouvrir une page d'équipe",
   "whatIsGdg": "GDG Douala",
   "aboutGdg": "Le GDG (Google Developers Group) Douala est une communauté de développeurs, amateurs & professionnels des TIC et étudiants qui partagent leur passion en organisant des conférences, hackathons, ateliers, challenges.Notre vision est de créer un écosystème de partage afin de connecter développeurs, étudiants, entrepreneurs et experts des TIC",
@@ -126,7 +126,19 @@
       "caption": "Tracks"
     }
   ],
-  "featuredPeople":[
+  "tikets":{
+    "url":"www.eventbrite.com",
+    "elements":[
+      {"name":"Ticket unique",
+        "price":"Gratuit",
+        "currency":"",
+        "starts":"",
+        "ends":"",
+        "info":"",
+        "soldOut":""
+      }]
+  },
+  "people":[
     {"name":"Speaker1",
       "country":"Cameroun",
       "id":"1",

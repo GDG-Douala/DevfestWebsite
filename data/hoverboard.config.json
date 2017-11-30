@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devfest.gdgdouala.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -32,6 +32,18 @@
     "locale": "fr-FR",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
+  "tikets":[{
+    "url":"www.eventbrite.com",
+    "elements":[
+      {"name":"Ticket unique",
+        "price":"Gratuit",
+        "currency":"",
+        "starts":"",
+        "ends":"",
+        "info":"",
+        "soldOut":""
+      }]
+  }],
   "hashtag": "devfestDla",
   "disqusShortName": "hoverboard-gdg-Douala",
   "tweetsSource": "/data/tweets.json",
@@ -103,7 +115,7 @@
       "title": "Accueil",
       "headerSettings": {
         "backgroundColor": "#fff",
-        "backgroundImage": "/images/backgrounds/home_new.png",
+        "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#000",
         "tabBarColor": "#ff9800",
         "hideLogo": true,
