@@ -83,12 +83,12 @@
       "links": [
         {
           "text": "Proposition de partenariat",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "mailto://gdgdouala@gmail.com",
           "newTab": true
         },
         {
           "text": "Kit Média",
-          "url": "http://bit.ly/df16-media",
+          "url": "mailto://gdgdouala@gmail.com",
           "newTab": true
         }
       ]
@@ -124,26 +124,6 @@
     {
       "counter": 3,
       "caption": "Tracks"
-    }
-  ],
-  "tikets":{
-    "url":"www.eventbrite.com",
-    "elements":[
-      {"name":"Ticket unique",
-        "price":"Gratuit",
-        "currency":"",
-        "starts":"",
-        "ends":"",
-        "info":"",
-        "soldOut":""
-      }]
-  },
-  "people":[
-    {"name":"Speaker1",
-      "country":"Cameroun",
-      "id":"1",
-      "photoUrl":"#",
-      "companyLogo":"#"
     }
   ],
   "callToAction": {

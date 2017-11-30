@@ -19,7 +19,7 @@
     "name": "devfest-28b85",
     "domain": "devfest-28b85.firebaseapp.com",
     "database": "https://devfest-28b85.firebaseio.com",
-    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp84",
+    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp8",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,18 +32,6 @@
     "locale": "fr-FR",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "tikets":[{
-    "url":"www.eventbrite.com",
-    "elements":[
-      {"name":"Ticket unique",
-        "price":"Gratuit",
-        "currency":"",
-        "starts":"",
-        "ends":"",
-        "info":"",
-        "soldOut":""
-      }]
-  }],
   "hashtag": "devfestDla",
   "disqusShortName": "hoverboard-gdg-Douala",
   "tweetsSource": "/data/tweets.json",
@@ -120,6 +108,14 @@
         "tabBarColor": "#ff9800",
         "hideLogo": true,
         "minHeight": "360px"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
       }
     },
     "schedule": {
