@@ -17,9 +17,9 @@
   },
   "firebase": {
     "name": "devfest-28b85",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "domain": "devfest-28b85.firebaseapp.com",
+    "database": "https://devfest-28b85.firebaseio.com",
+    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp84",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
