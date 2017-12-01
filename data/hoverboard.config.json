@@ -19,7 +19,7 @@
     "name": "devfest-28b85",
     "domain": "devfest-28b85.firebaseapp.com",
     "database": "https://devfest-28b85.firebaseio.com",
-    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp8",
+    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp84",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestDla",
   "disqusShortName": "hoverboard-gdg-Douala",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://mail.walkity.com/tweetledee/listsjson.php?list=devfestdla",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
@@ -42,6 +42,10 @@
     {
       "route": "home",
       "permalink": "/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
     },
     {
       "route": "schedule",
@@ -102,10 +106,10 @@
     "home": {
       "title": "Accueil",
       "headerSettings": {
-        "backgroundColor": "#fff",
-        "backgroundImage": "/images/backgrounds/home.jpg",
-        "fontColor": "#000",
-        "tabBarColor": "#ff9800",
+        "backgroundColor": "#ff9800",
+        "backgroundImage": "/images/backgrounds/home_old.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -113,7 +117,7 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

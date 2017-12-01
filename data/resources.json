@@ -14,15 +14,15 @@
   "yourEmail": "Votre addresse email",
   "subscribeNote": "Pas de spam, seulement les dernières nouvelles!",
   "contactUs": "Contactez nous",
-  "ticketsTitle": "Billets",
-  "ticketsDetails": "Les billets donnent accès à toutes les sections de la conférence, aux pauses café, au déjeuner et à la fête.",
+  "ticketsTitle": "Prennez votre ticket pour participer",
+  "ticketsDetails": "Les tickets sont gratuits et vous donnent accès à toutes les sections de la conférence, aux pauses café, au déjeuner et à la fête.",
   "close": "Fermé",
   "soldOutTickets": "Gratuit",
   "socialTitle": "Restez connecté",
   "socialMotto": "Ajouter aux cercles, aimer, suivre ou se connecter avec nous sur",
   "beforeHashtag": "Quoi de neuf",
   "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
-  "partners": "Les partenaires",
+  "partners": "Notre partenaire",
   "becomePartner": "Devenir un partenaire",
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "Voir tous les speakers",
@@ -67,11 +67,6 @@
           "newTab": false
         },
         {
-          "text": "Speakers",
-          "url": "/speakers/",
-          "newTab": false
-        },
-        {
           "text": "Code de conduite",
           "url": "/cod/",
           "newTab": false
@@ -88,12 +83,12 @@
       "links": [
         {
           "text": "Proposition de partenariat",
-          "url": "mailto://gdgdouala@gmail.com",
+          "url": "mailto:gdgdouala@gmail.com",
           "newTab": true
         },
         {
           "text": "Kit Média",
-          "url": "mailto://gdgdouala@gmail.com",
+          "url": "mailto:gdgdouala@gmail.com",
           "newTab": true
         }
       ]
@@ -102,13 +97,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "Écrivez nous un mail",
+        "text": "gdgdouala@gmail.com",
         "url": "mailto:gdgdouala@gmail.com"
       }
     ]
   },
   "teamPageTitle": "L'équipe",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google est connu dans le monde entier. Chacun sait 'googler', marquer sa position sur la map, communiquer avec Gmail. Pour les simples utilisateurs, ces outils fonctionnent tout simplement, mais ce n'est pas le cas pour nous. Pour les développeurs que nous sommes, nous y voyons beaucoup plus: les APIs, les problèmes liés à l'adaptation, tout une gamme de technologies assez complexes, et c'est là la raison d'être du GDG.<br><br> Le [Google Developers Group (GDG) Douala](https://plus.google.com/102681658141349850601) - est une communauté geek de volontaires qui créaient des projets et partagent leurs expériences et leur passion à la technologie Google.<br><br> Notre objectif est de connecter les experts et les passionnés du domaine avec le plus possible de personnes pour la croissance de la communauté technologique de Douala.",
   "statistics": [
     {
       "counter": 300,

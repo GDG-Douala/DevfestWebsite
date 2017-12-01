@@ -77,12 +77,14 @@
       .dates {
         font-size: 18px;
         text-transform: uppercase;
+        font-weight:bold;
       }
 
       .motto {
         margin-top: 20px;
         font-size: 22px;
         line-height: 1;
+        font-weight:bold;
       }
 
       .action-buttons {
@@ -128,8 +130,8 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
+              <iron-image class="logo" src="/images/devfest-logo.png" sizing="contain"
+                          alt="GDG DevFest Douala 2017"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}
@@ -144,15 +146,15 @@
             </div>
           </div>
         </animatable-content>
-        <animatable-content name="blog">
+        <animatable-content name="speakers">
           <div class="container">
-            <h3 class="page-title" hidden$="{{app.headerSettings.title}}">{$ pages.blog.title $}</h3>
+            <h3 class="page-title" hidden$="{{app.headerSettings.title}}">{$ pages.speakers.title $}</h3>
             <h3 class="page-title" hidden$="{{!app.headerSettings.title}}">[[app.headerSettings.title]]</h3>
             <div class="page-subtitle" hidden$="{{!app.headerSettings.subtitle}}">[[app.headerSettings.subtitle]]</div>
           </div>
         </animatable-content>
         {% for page, settings in pages %}
-          {% if page !== 'home' and page !== 'blog' %}
+          {% if page !== 'home' and page !== 'speakers' %}
             <animatable-content name="{$ page $}">
               <div class="container">
                 <h3 class="page-title">{$ settings.title $}</h3>

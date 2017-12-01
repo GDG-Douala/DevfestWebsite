@@ -120,7 +120,7 @@
         longitude="{$ location.mapCenter.longitude $}"
         api-key="{$ location.apiKey $}"
         styles="[[options]]"
-        disable-zoom disable-default-ui
+        disable-default-ui
       >
         <google-map-marker
           latitude="{$ location.pointer.latitude $}"
@@ -128,7 +128,7 @@
         ></google-map-marker>
       </google-map>
     </template>
-    >
+    
     <div class="disable-map-events"></div>
     <div class="container">
       <div class="additional-space"></div>
