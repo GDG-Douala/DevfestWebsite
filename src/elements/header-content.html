@@ -107,6 +107,12 @@
       .open-video iron-icon {
         margin-right: 5px;
       }
+      .visible{
+        padding:18px;
+        width:260px !important;
+        background:rgba(5, 0, 5, .5);
+        border:1px double orange;
+      }
 
       @media (min-width: 601px) {
         .container {
@@ -129,7 +135,7 @@
       <neon-animated-pages attr-for-selected="name" selected="{{app.page}}">
         <animatable-content name="home">
           <div class="container" center-justified>
-            <div class="home-wrapper">
+            <div class="home-wrapper visible">
               <iron-image class="logo" src="/images/white-logo.png" sizing="contain"
                           alt="GDG DevFest Douala 2017"></iron-image>
               <h3 class="dates">{$ dates $}</h3>

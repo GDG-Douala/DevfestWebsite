@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestDla",
   "disqusShortName": "hoverboard-gdg-Douala",
-  "tweetsSource": "https://mail.walkity.com/tweetledee/listsjson.php?list=devfestdla",
+  "tweetsSource": "https://mail.walkity.com/tweetledee/searchjson.php?q=DevFestDla",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
@@ -42,6 +42,10 @@
     {
       "route": "home",
       "permalink": "/"
+    },
+    {
+      "route": "challenge",
+      "permalink": "/challenge"
     },
     {
       "route": "speakers",
@@ -95,7 +99,7 @@
   "gallery": {
     "albumUrl": "https://web.facebook.com/206250519497408/photos/?tab=album&album_id=297812480341211",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/1.jpg",
       "small": [
         "/images/backgrounds/2015_2.jpg",
         "/images/backgrounds/2015_3.jpg"
@@ -107,11 +111,19 @@
       "title": "Accueil",
       "headerSettings": {
         "backgroundColor": "#ff9800",
-        "backgroundImage": "/images/backgrounds/home_old.jpg",
+        "backgroundImage": "/images/backgrounds/2015_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "hideLogo": true,
         "minHeight": "360px"
+      }
+    },
+    "challenge": {
+      "title": "Challenge",
+      "headerSettings": {
+        "backgroundColor": "#0022ff",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
       }
     },
     "speakers": {

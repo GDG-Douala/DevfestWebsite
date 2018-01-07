@@ -2,7 +2,7 @@
   "title": "DevFest Douala 2017",
   "description": "Le DevFest est un événement  de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": " 16 Decembre, 2017",
+  "dates": " 17 Février, 2018",
   "locationAddressShort": "Douala, Cameroon",
   "motto": "HIB derrière SoCaVer",
   "playIcon": "",
@@ -104,6 +104,8 @@
   },
   "teamPageTitle": "L'équipe",
   "teamPageText": "Google est connu dans le monde entier. Chacun sait 'googler', marquer sa position sur la map, communiquer avec Gmail. Pour les simples utilisateurs, ces outils fonctionnent tout simplement, mais ce n'est pas le cas pour nous. Pour les développeurs que nous sommes, nous y voyons beaucoup plus: les APIs, les problèmes liés à l'adaptation, tout une gamme de technologies assez complexes, et c'est là la raison d'être du GDG.<br><br> Le [Google Developers Group (GDG) Douala](https://plus.google.com/102681658141349850601) - est une communauté geek de volontaires qui créaient des projets et partagent leurs expériences et leur passion à la technologie Google.<br><br> Notre objectif est de connecter les experts et les passionnés du domaine avec le plus possible de personnes pour la croissance de la communauté technologique de Douala.",
+  "challengeTitle":"Le challenge",
+  "challengeText":"Comment y **participer**?",
   "statistics": [
     {
       "counter": 300,
