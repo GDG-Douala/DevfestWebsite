@@ -179,7 +179,7 @@
         </paper-button>
       </div>
       <div class="footer-content footer-links-container">
-        <nav class="navigation">
+        <nav class="navigation" style="display:flex; fex-direction:row">
           {% for block in footerBlocks %}
             <div class="link-block-wrapper">
               <div class="link-block-title">{$ block.title $}</div>
@@ -209,6 +209,7 @@
               {% endfor %}
             </div>
           </div>
+          <!--
           <div class="subscribe">
             <div class="link-block-title">{$ subscribe $}</div>
             <span>{$ subscribeNote $}</span>
@@ -217,15 +218,14 @@
               url="{$ mailchimp.url $}"
               name="{$ mailchimp.name $}"
             ></mailchimp-subscribe>
-          </div>
+          </div> -->
         </nav>
       </div>
       <div class="footer-content footer-bottom">
         <!-- Please do NOT delete next block -->
         <div class="copyright">
           &copy; 2017 Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project
-          Hoverboard</a>. Designed and created by <a href="https://twitter.com/alkamjior" target="_blank" rel="noopener noreferrer">Kamla Junior</a> &amp;
-        <a href="https://twitter.com/lorentzkonwo" target="_blank" rel="noopener noreferrer">Konwo Lorentz</a> &middot;
+          Hoverboard</a> | 
           <a href="https://plus.google.com/communities/102681658141349850601" target="_blank" rel="noopener noreferrer">GDG Douala</a>
         </div>
         <div class="gplus">

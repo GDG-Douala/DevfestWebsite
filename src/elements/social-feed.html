@@ -106,7 +106,6 @@
 
         _postsChanged: function () {
           var index = this._selected;
-          console.log("New element: " + JSON.stringify(this._posts.statuses[0]));
           if (this._posts) {
             this._selected = (++index % this._posts.statuses.length);
             this.author = this._posts.statuses[this._selected].user.screen_name;
