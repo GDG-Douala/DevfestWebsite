@@ -45,7 +45,7 @@
     },
     {
       "route": "challenge",
-      "permalink": "#"
+      "permalink": "/challenge"
     },
     {
       "route": "speakers",
@@ -121,7 +121,7 @@
     "challenge": {
       "title": "Challenge",
       "headerSettings": {
-        "backgroundColor": "#0022ff",
+        "backgroundColor": "#002f00",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
