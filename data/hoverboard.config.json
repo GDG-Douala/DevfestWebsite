@@ -45,15 +45,15 @@
     },
     {
       "route": "challenge",
-      "permalink": "/challenge"
+      "permalink": "#"
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/"
+      "permalink": "#"
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/"
+      "permalink": "#"
     },
     {
       "route": "team",
@@ -79,7 +79,7 @@
   "location": {
     "apiKey": "AIzaSyCgN7RkWqNCIfz4HaDzRCauf8isWPrXRxA",
     "name": "HIB Douala",
-    "address": "Ndokoti, derrière SoCaVer",
+    "address": "Ndokoti, derrière SOCAVER",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
       "latitude": 4.0483494,
