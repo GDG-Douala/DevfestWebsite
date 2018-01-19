@@ -127,20 +127,17 @@
         app-toolbar {
           min-height: 360px;
         }
-        .pretty{
-          position:absolute;
-          right:60px;
-        }
-      }
-      .pretty{
-        bottom:40px;
       }
       @media (max-width: 600px) {
         .pretty{
-          position:absolute;
-          right:20px;
           font-size:9px;
         }
+      }
+      .cool{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        align-content:center;
       }
 
     </style>
@@ -178,12 +175,14 @@
           {% if page !== 'home' and page !== 'speakers' %}
             <animatable-content name="{$ page $}">
               <div class="container">
-                <h3 class="page-title">{$ settings.title $}</h3>
-                {% if page === 'cod' %}
-                  <a href="https://goo.gl/oVqdV6">
-                    <paper-button class="primary pretty" on-tap="_scrollToTickets">Participer au challenge</paper-button>
-                  </a>
-                {% endif %}
+                <div class="cool">
+                  <h3 class="page-title">{$ settings.title $}</h3>
+                  {% if page === 'cod' %}
+                    <a target="_blank" href="https://goo.gl/oVqdV6">
+                      <paper-button class="primary pretty" on-tap="_scrollToTickets">Participer au challenge</paper-button>
+                    </a>
+                  {% endif %}
+                </div>
               </div>
             </animatable-content>
           {% endif %}
