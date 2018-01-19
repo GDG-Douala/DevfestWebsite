@@ -1,0 +1,135 @@
+{
+  "title": "DEVFEST DOUALA 2017",
+  "description": "Le DevFest est un événement  de partages, conférences et ateliers regroupant étudiants, professionnels, entrepreneurs et entreprises autour de la même passion : le numérique",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": " 17 Février 2018",
+  "locationAddressShort": "Douala, Cameroon",
+  "motto": "HIB derrière SOCAVER",
+  "playIcon": "",
+  "c4p": "Devenir un speaker",
+  "buyTicket": "Participer",
+  "becomeSpeakerText": "Dévenir speaker",
+  "backToTop": "Haut de page",
+  "subscribe": "Inscription",
+  "yourEmail": "Votre addresse email",
+  "subscribeNote": "Pas de spam, seulement les dernières nouvelles!",
+  "contactUs": "Contactez nous",
+  "ticketsTitle": "Prennez votre ticket pour participer",
+  "ticketsDetails": "Les tickets sont gratuits et vous donnent accès à toutes les sections de la conférence, aux pauses café.",
+  "close": "Fermé",
+  "soldOutTickets": "Gratuit",
+  "socialTitle": "Restez connecté",
+  "socialMotto": "Ajouter aux cercles, aimer, suivre ou se connecter avec nous sur",
+  "beforeHashtag": "Quoi de neuf",
+  "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
+  "partners": "Notre partenaire",
+  "becomePartner": "Devenir un partenaire",
+  "featuredPeopleTitle": "Speakers",
+  "featuredPeopleViewAll": "Voir tous les speakers",
+  "action": "",
+  "locationTitle": "HIB derrière SOCAVER",
+  "locationDescription": "Higher Institute of Business, Ndokoti",
+  "locationAddress": "HIB derrière SOCAVER",
+  "organizerTitle": "Organisateur",
+  "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure. Organisée pour la 5e fois dans la ville, nous voulons désormais en faire le plus grand rassemblement de développeurs au Cameroun. Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse.",
+  "openTeamPage": "Ouvrir une page d'équipe",
+  "whatIsGdg": "GDG Douala",
+  "aboutGdg": "Le GDG (Google Developers Group) Douala est une communauté de développeurs, amateurs & professionnels des TIC et étudiants qui partagent leur passion en organisant des conférences, hackathons, ateliers, challenges. Notre vision est de créer un écosystème de partage afin de connecter développeurs, étudiants, entrepreneurs et experts des TIC",
+  "readMore": "Lire la suite",
+  "copyLink": "Copier le lien",
+  "filteredBy": "filtré par",
+  "clearAll": "Tout effacer",
+  "filter": "Filtre",
+  "latestNews": "Dernières nouvelles",
+  "continueReading": "Continuer la lecture",
+  "viewPresentation": "Voir la présentation",
+  "viewVideo": "Voir la vidéo",
+  "skills": "Compétences",
+  "share": "Partager",
+  "shareWith": "Partager avec",
+  "signIn": "",
+  "signOut": "Déconnexion",
+  "mySchedule": "Mon emploi du temps",
+  "browseMore": "Parcourir plus d'événements",
+  "youShouldSignInSessions": "Connectez-vous pour enregistrer des sessions",
+  "youShouldSignInRating": "Connectez-vous pour évaluer les sessions",
+  "offlineMessage": "Vous êtes hors ligne",
+  "removedFromSchedule": "Retiré de mon calendrier",
+  "addedToSchedule": "Ajouté à mon agenda",
+  "rateSession": "Noter la session",
+  "footerBlocks": [
+    {
+      "title": "Pour les visiteurs",
+      "links": [
+        {
+          "text": "L'équipe",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "Code de conduite",
+          "url": "/cod/",
+          "newTab": false
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Pour les partenaires",
+      "links": [
+        {
+          "text": "Proposition de partenariat",
+          "url": "mailto:gdgdouala@gmail.com",
+          "newTab": true
+        },
+        {
+          "text": "Kit Média",
+          "url": "mailto:gdgdouala@gmail.com",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgdouala@gmail.com",
+        "url": "mailto:gdgdouala@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "L'équipe",
+  "teamPageText": "Google est connu dans le monde entier. Chacun sait 'googler', marquer sa position sur la map, communiquer avec Gmail. Pour les simples utilisateurs, ces outils fonctionnent tout simplement, mais ce n'est pas le cas pour nous. Pour les développeurs que nous sommes, nous y voyons beaucoup plus: les APIs, les problèmes liés à l'adaptation, tout une gamme de technologies assez complexes, et c'est là la raison d'être du GDG.<br><br> Le [Google Developers Group (GDG) Douala](https://plus.google.com/102681658141349850601) - est une communauté geek de volontaires qui créaient des projets et partagent leurs expériences et leur passion à la technologie Google.<br><br> Notre objectif est de connecter les experts et les passionnés du domaine avec le plus possible de personnes pour la croissance de la communauté technologique de Douala.",
+  "challengeTitle":"GDG DOUALA DEVFEST 2017 CHALLENGE",
+  "challengeText":"**I- PRÉSENTATION** <br/><br/> Dans le cadre du DevFest Douala 2017, le GDG Douala a décidé de lancer un challenge de développement d’applications pour la plateforme Android.<br/><br/>Pour rappel le GDG (Google Developer Group) Douala est une association regroupant des personnes de tout bord ayant en commun leur passion pour les technologies de l’information. Les GDG existent un peu partout de part le monde, au Cameroun on en compte près de 14. Le GDG Douala regroupe dont les passionnés de la technologie résidant dans la ville de Douala.<br/><br/>**II- BUT ET OBJECTIF**<br/><br/>Le but du challenge est de donner plus de visibilité et de rayonnement à l'événement et de permettre aux talents locaux de se faire connaître par le grand public. En effet beaucoup de néo-développeurs ne sont pas encore connus du public et travaillent plus dans l’ombre.<br/><br/>**III- QUI PEUT PARTICIPER**<br/><br/>Le challenge est ouvert à tous et a toute, gratuit,  sans restriction de sexe, d’appartenance religieuse ou politique, d'âge, de résidence ou de profession. Que vous résidez à Douala ou pas, que vous soyez membre du GDG Douala ou pas, il est possible pour vous de participer au challenge de développement d’applications.<br/><br/>L’unique contrainte étant le fait qu’il faut résider au Cameroun pour prendre part a ce challenge.<br/><br/>**IV- COMMENT PARTICIPER**</br><br/>Participer est assez simple, il faut dès maintenant se mettre au travail et commencer à bosser sur son application. Aussi, vous devez vous enregistrer sur le formulaire suivant et nous soumettre votre APK dès lors que celle ci sera prête, afin que l’on puisse vous recenser comme participants au challenge.<br/><br/>[Lien du formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfkE4rWVBG7emcwL7A4EMRaJNSRFZjmzXQjzk0_J8uMM2FPHw/viewform?usp=sf_link): https://docs.google.com/forms/d/e/1FAIpQLSfkE4rWVBG7emcwL7A4EMRaJNSRFZjmzXQjzk0_J8uMM2FPHw/viewform?usp=sf_link<br/><br/>**V- DÉROULEMENT DU CHALLENGE**<br/><br/>Le challenge se déroulera en une phase, les participants auront jusqu’au 10 Février 2018 pour soumettre leur applications, suite a cela un jury désignera les 3 lauréats. les résultats seront communiqués le 14 Février 2018.<br/><br/>**VI-  DATE LIMITE**<br/><br/> La date limite de soumission pour la première phase est le Samedi 10 Février 2018  à 23h00.<br/><br/> **VII- TRAVAIL EN GROUPE**<br/><br/>Le travail en groupe est autorisé, avec un maximum de 3 personnes par groupe. Libre donc à vous de travailler en groupe ou individuellement.<br/><br/>**VIII- RÈGLES DU CHALLENGE**<br/><br/>Les règles du challenge sont assez simples :<br/>L’application devra être sous Android (minimum requis Android 4.1)<br/>L’application ne doit en aucun cas exister sur le Google PlayStore<br/>Il n’y a pas de restriction sur les outils de développement, il vous faudra juste produire un APK et nous le soumettre<br/></br>**IX - LOT DU CHALLENGE**<br/><br/>Les lots prévus pour ce challenge sont : <br/>1 Samsung Galaxy S4 pour le 1er<br/>1 Samsung Galaxy S3 pour le 2e<br/>1 Casque de réalité virtuelle pour le 3e<br/><br/>**X - DROIT DE PROPRIÉTÉ INTELLECTUELLE**<br/><br/>Les applications soumisent dans le cadre de challenge restent la propriété de ceux qui ont soumis aussi bien avant, pendant, qu'après le challenge.<br/>Ainsi donc en dehors du cadre de ce challenge, aucune publicité ou exploitation de ses applications ne seront fait par nous ou nos partenaires sans l’aval du soumissionnaire.",
+  "statistics": [
+    {
+      "counter": 300,
+      "caption": "Participants"
+    },
+    {
+      "counter": 1,
+      "caption": "Jour"
+    },
+    {
+      "counter": 25,
+      "caption": "Sessions"
+    },
+    {
+      "counter": 20,
+      "caption": "Speakers"
+    },
+    {
+      "counter": 3,
+      "caption": "Tracks"
+    }
+  ],
+  "callToAction": {
+    "videoTitle": "GDG DevFest Douala 2017",
+    "videoId": "DfMnJAzOFng"
+  }
+}

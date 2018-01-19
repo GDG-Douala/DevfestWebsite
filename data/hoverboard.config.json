@@ -44,8 +44,8 @@
       "permalink": "/"
     },
     {
-      "route": "challenge",
-      "permalink": "/challenge"
+      "route": "cod",
+      "permalink": "/cod/"
     },
     {
       "route": "speakers",
@@ -118,10 +118,10 @@
         "minHeight": "360px"
       }
     },
-    "challenge": {
+    "cod": {
       "title": "Challenge",
       "headerSettings": {
-        "backgroundColor": "#002f00",
+        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -146,14 +146,6 @@
       "title": "Équipe",
       "headerSettings": {
         "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "cod": {
-      "title": "Code de conduite",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

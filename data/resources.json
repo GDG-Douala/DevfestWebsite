@@ -4,7 +4,7 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": " 17 Février 2018",
   "locationAddressShort": "Douala, Cameroon",
-  "motto": "HIB derrière SOCAVER",
+  "motto": "HIB, derrière SOCAVER",
   "playIcon": "",
   "c4p": "Devenir un speaker",
   "buyTicket": "Participer",
@@ -27,9 +27,9 @@
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "Voir tous les speakers",
   "action": "",
-  "locationTitle": "HIB derrière SOCAVER",
+  "locationTitle": "HIB, derrière SOCAVER",
   "locationDescription": "Higher Institute of Business, Ndokoti",
-  "locationAddress": "HIB derrière SOCAVER",
+  "locationAddress": "HIB, derrière SOCAVER",
   "organizerTitle": "Organisateur",
   "aboutOrganizers": "Le DevFest Douala est un événement organisé par le GDG Douala et tout volontaire désirant participer à l'aventure. Organisée pour la 5e fois dans la ville, nous voulons désormais en faire le plus grand rassemblement de développeurs au Cameroun. Pour rendre tout cela possible, une équipe de bénévoles s’active en coulisse.",
   "openTeamPage": "Ouvrir une page d'équipe",
@@ -64,11 +64,6 @@
         {
           "text": "L'équipe",
           "url": "/team/",
-          "newTab": false
-        },
-        {
-          "text": "Code de conduite",
-          "url": "/cod/",
           "newTab": false
         },
         {

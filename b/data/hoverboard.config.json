@@ -1,0 +1,162 @@
+{
+  "url": "https://devfest.gdgdouala.com/",
+  "startDate": "2016-09-09T09:00:00+03:00",
+  "endDate": "2016-09-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-43643469-8",
+    "dev": "UA-43643469-9"
+  },
+  "organizer": {
+    "name": "GDG Douala",
+    "twitter": "gdgdouala"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "devfest-28b85",
+    "domain": "devfest-28b85.firebaseapp.com",
+    "database": "https://devfest-28b85.firebaseio.com",
+    "api": "AIzaSyAXZQZ3qJ7WBlIgmRjIgS4GuokJponpp84",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "dateFormat": {
+    "locale": "fr-FR",
+    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+  },
+  "hashtag": "devfestDla",
+  "disqusShortName": "hoverboard-gdg-Douala",
+  "tweetsSource": "https://mail.walkity.com/tweetledee/searchjson.php?q=devfestdla",
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "challenge",
+      "permalink": "/challenge"
+    },
+    {
+      "route": "speakers",
+      "permalink": "#"
+    },
+    {
+      "route": "schedule",
+      "permalink": "#"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGDouala",
+      "url": "https://twitter.com/gdgdouala"
+    },
+    {
+      "name": "gplus",
+      "nickname": "102681658141349850601",
+      "url": "https://plus.google.com/102681658141349850601"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGDouala",
+      "url": "https://www.facebook.com/GDGDouala"
+    }],
+  "location": {
+    "apiKey": "AIzaSyCgN7RkWqNCIfz4HaDzRCauf8isWPrXRxA",
+    "name": "HIB Douala",
+    "address": "Ndokoti, derrière SOCAVER",
+    "link": "https://www.facebook.com/expopivdennij",
+    "pointer": {
+      "latitude": 4.0483494,
+      "longitude": 9.7486742,
+      "zoom": 16
+    },
+    "mapCenter": {
+      "latitude": 4.0483494,
+      "longitude": 9.7536758
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://web.facebook.com/206250519497408/photos/?tab=album&album_id=297812480341211",
+    "photos": {
+      "big": "/images/backgrounds/1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Accueil",
+      "headerSettings": {
+        "backgroundColor": "#ff9800",
+        "backgroundImage": "/images/backgrounds/2015_1.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "challenge": {
+      "title": "Challenge",
+      "headerSettings": {
+        "backgroundColor": "#002f00",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Programme",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Équipe",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code de conduite",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}

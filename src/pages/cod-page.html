@@ -19,6 +19,8 @@
 
     <style include="shared-styles">
       :host {
+        --grid-gutter: 8px;
+        --colums-number: 3;
         display: block;
       }
 
@@ -29,8 +31,28 @@
 
       .details-item {
         @apply(--layout-horizontal);
-        margin: 0 auto;
         padding-bottom: 32px;
+      }
+
+      .details-icon {
+        --iron-icon-height: 56px;
+        --iron-icon-width: 56px;
+        --iron-icon-fill-color: var(--default-primary-color);
+        margin-right: 24px;
+      }
+
+      .details-info {
+        @apply(--layout-flex);
+      }
+
+      .details-title {
+        margin-bottom: 24px;
+        font-size: 24px;
+        font-weight: 400;
+      }
+
+      .details-text .markdown-html {
+        font-size: 16px;
       }
 
       @media (min-width: 1600px) {
@@ -40,14 +62,16 @@
       }
     </style>
 
-    <iron-ajax auto id="ajax" url="[[source]]" handle-as="text" on-response="updateCascadedNodes" last-response="{{cod}}"></iron-ajax>
-
     <div class="container">
       <div class="details">
         <div class="details-item" cascaded>
-          <marked-element markdown="[[cod]]">
-            <div class="markdown-html"></div>
-          </marked-element>
+          <iron-icon class="details-icon" icon="info"></iron-icon>
+          <div class="details-info">
+            <h4 class="details-title">{$ challengeTitle $}</h4>
+            <marked-element class="details-text" markdown="{$ challengeText $}">
+              <div class="markdown-html"></div>
+            </marked-element>
+          </div>
         </div>
       </div>
     </div>
