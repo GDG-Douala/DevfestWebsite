@@ -69,7 +69,7 @@
           <div class="details-info">
             <h4 class="details-title">{$ challengeTitle $}</h4>
             <marked-element class="details-text" markdown="{$ challengeText $}">
-              <div class="markdown-html"></div>
+              <div class="markdown-html" style="text-align:justify; word-break:break-all; width:80vw !important; margin-right:25px"></div>
             </marked-element>
           </div>
         </div>
@@ -91,16 +91,7 @@
         behaviors: [
           HOVERBOARD.PageBehavior,
           HOVERBOARD.CascadedBehavior
-        ],
-
-        properties: {
-          source: {
-            type: String,
-            value: 'data/posts/code-of-conduct.markdown'
-          }
-        }
-
-      });
+        ]      });
 
     })();
   </script>

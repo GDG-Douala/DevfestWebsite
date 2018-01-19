@@ -127,6 +127,20 @@
         app-toolbar {
           min-height: 360px;
         }
+        .pretty{
+          position:absolute;
+          right:60px;
+        }
+      }
+      .pretty{
+        bottom:40px;
+      }
+      @media (max-width: 600px) {
+        .pretty{
+          position:absolute;
+          right:20px;
+          font-size:9px;
+        }
       }
 
     </style>
@@ -138,7 +152,7 @@
             <div class="home-wrapper visible">
               <!-- <iron-image class="logo" src="/images/white-logo.png" sizing="contain"
                 alt="GDG DevFest Douala 2017"></iron-image>-->
-              <h1  class="head" style="font-weight:bold; font-size:22px; padding-bottom:10px">DEVFEST DOUALA 2017</h1>
+              <h1  class="head" style="font-weight:bold; font-size:18px; padding-bottom:20px">DEVFEST DOUALA 2017</h1>
               <h3 class="dates">{$ dates $}</h3>
               <h3 class="motto">{$ motto $}</h3>
               {% if pages.home.headerSettings.video %}
@@ -165,6 +179,11 @@
             <animatable-content name="{$ page $}">
               <div class="container">
                 <h3 class="page-title">{$ settings.title $}</h3>
+                {% if page === 'cod' %}
+                  <a href="https://goo.gl/oVqdV6">
+                    <paper-button class="primary pretty" on-tap="_scrollToTickets">Participer au challenge</paper-button>
+                  </a>
+                {% endif %}
               </div>
             </animatable-content>
           {% endif %}
