@@ -44,10 +44,6 @@
       "permalink": "/"
     },
     {
-      "route": "cod",
-      "permalink": "/cod/"
-    },
-    {
       "route": "speakers",
       "permalink": "/speakers"
     },

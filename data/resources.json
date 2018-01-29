@@ -111,15 +111,15 @@
       "caption": "Jour"
     },
     {
-      "counter": 30,
+      "counter": "30+",
       "caption": "Sessions"
     },
     {
-      "counter": 25,
+      "counter": "30+",
       "caption": "Speakers"
     },
     {
-      "counter": 3,
+      "counter": 4,
       "caption": "Tracks"
     }
   ],
