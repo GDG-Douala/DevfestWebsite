@@ -49,7 +49,7 @@
     },
     {
       "route": "schedule",
-      "permalink": "#"
+      "permalink": "/schedule"
     },
     {
       "route": "team",
