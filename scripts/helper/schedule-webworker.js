@@ -57,7 +57,7 @@ self.addEventListener('message', function (e) {
     for (var dayIdx = 0, scheduleLen = schedule.length; dayIdx < scheduleLen; dayIdx++) {
       var day = schedule[dayIdx];
       day.tags = [];
-      for (var timeSlotIdx = 0, timeslotsLen = day.timeslots.length; timeSlotIdx < timeslotsLen; timeSlotIdx++) {
+      for (var timeSlotIdx = 0, timeslotsLen = day.timeslots.length; timeSlotIdx < 3/*timeslotsLen*/; timeSlotIdx++) {
         var timeslot = day.timeslots[timeSlotIdx];
         for (var sessionIndex = 0, sessionsLen = timeslot.sessions.length; sessionIndex < sessionsLen; sessionIndex++) {
           for (var subSessIdx = 0, subSessionsLen = timeslot.sessions[sessionIndex].length; subSessIdx < subSessionsLen; subSessIdx++) {
