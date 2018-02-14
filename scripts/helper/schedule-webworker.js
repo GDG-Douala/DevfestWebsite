@@ -17,6 +17,8 @@ function attachSessionAndSpeakersTogether(session, speakersRaw) {
           if (!isDefined(session.speakers[speakerIdx].sessions)) {
             session.speakers[speakerIdx].sessions = [];
           }
+/*added a condition to protect from crash in case of inconsistency */
+	  if(session.speakers[speakerIdx].sessions)
           session.speakers[speakerIdx].sessions.push(tempSession);
         }
       }
@@ -57,8 +59,10 @@ self.addEventListener('message', function (e) {
     for (var dayIdx = 0, scheduleLen = schedule.length; dayIdx < scheduleLen; dayIdx++) {
       var day = schedule[dayIdx];
       day.tags = [];
-      for (var timeSlotIdx = 0, timeslotsLen = day.timeslots.length; timeSlotIdx < 3/*timeslotsLen*/; timeSlotIdx++) {
+      for (var timeSlotIdx = 0, timeslotsLen = day.timeslots.length; timeSlotIdx < timeslotsLen; timeSlotIdx++) {
         var timeslot = day.timeslots[timeSlotIdx];
+/*added a condition to protect from crash in case of inconsistency */
+	if(timeslot && timeslot.sessions)
         for (var sessionIndex = 0, sessionsLen = timeslot.sessions.length; sessionIndex < sessionsLen; sessionIndex++) {
           for (var subSessIdx = 0, subSessionsLen = timeslot.sessions[sessionIndex].length; subSessIdx < subSessionsLen; subSessIdx++) {
             var session = sessions[timeslot.sessions[sessionIndex][subSessIdx]];
