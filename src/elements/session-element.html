@@ -196,7 +196,9 @@
               </div>
 
               <div hidden$="[[!session.type]]" layout horizontal center>
+		<!-- hiding as the sigin is disabled 
                 <iron-icon icon="info"></iron-icon>
+		-->
                 <span>[[session.type]]</span>
               </div>
 
@@ -295,7 +297,7 @@
 
         ready: function () {
           this.async(function () {
-            this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.mainTag));
+            this.sessionColor = this.getComputedStyleValue('--' + this._generateClass(this.session.mainTag))||'#66a';
           });
         },
 
